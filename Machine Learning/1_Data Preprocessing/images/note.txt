@@ -1,0 +1,3 @@
+After feature scaling the values are compressed so that MLalgo understand it better.
+
+Y values r same because there is no difference in there values so no need to scale it.
